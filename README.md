@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Web [`q9f.cc/`](https://q9f.cc/)
-* Matrix `@afr:free.technology`
+* Matrix `@afr:dod.ngo`
 * Signal `@schoedon.09`
 
 ### By the way
