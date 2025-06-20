@@ -2,7 +2,7 @@
 
 * Web [`q9f.cc/`](https://q9f.cc/)
 * Matrix `@afr:dod.ngo`
-* Signal `@schoedon.09`
+* Signal _on request_
 
 ### By the way
 
